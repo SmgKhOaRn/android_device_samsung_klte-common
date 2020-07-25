@@ -1,2 +1,3 @@
-# Fingerprint
+type bluetooth_device, dev_type;
+type efs_block_device, dev_type;
 type vfsspi_device, dev_type;
