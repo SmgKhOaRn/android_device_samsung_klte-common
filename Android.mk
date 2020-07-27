@@ -298,5 +298,5 @@ $(shell mkdir -p $(TARGET_OUT)/etc/firmware/wcd9320; \
 		$(TARGET_OUT)/etc/firmware/wcd9320/wcd9320_mad_audio.bin)
 
 endif
->>>>>>> msm8974-common/lineage-17.1
+endif
 endif
