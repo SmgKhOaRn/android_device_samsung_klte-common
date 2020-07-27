@@ -39,6 +39,9 @@ debug.hwui.use_buffer_age=false
 debug.sf.enable_gl_backpressure=1
 debug.sf.latch_unsignaled=1
 
+# Fastbootd
+ro.fastbootd.available=true
+
 # GL
 ro.opengles.version=196608
 
