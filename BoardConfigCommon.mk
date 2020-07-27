@@ -20,6 +20,9 @@ TARGET_SPECIFIC_HEADER_PATH := $(COMMON_PATH)/include
 
 BUILD_FINGERPRINT := samsung/kltexx/klte:6.0.1/MMB29M/G900FXXU1CRH1:user/release-keys
 
+# AOSP Surfaceflinger
+TARGET_USE_AOSP_SURFACEFLINGER := true
+
 # Architecture
 TARGET_ARCH := arm
 TARGET_CPU_ABI := armeabi-v7a
